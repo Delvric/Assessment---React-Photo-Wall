@@ -26,7 +26,7 @@ npm start
 
 ## Acceptance Criteria
 The acceptance criteria are all
-laid out in [src/App.jsx](src/App.jsx) in comments. We've also reproduced them
+laid out in src/App.jsx in comments. We've also reproduced them
 below:
 
 ### Step 1: Declare state  
@@ -49,7 +49,7 @@ The generated images should include:
 Where "photo" is the current photo in the array of `photos` being iterated over.
 
 ### Step 4: Styling 
-Modify [src/App.css](src/App.css) to include styling that accomplishes the following:
+Modify src/App.css to include styling that accomplishes the following:
 
    - cause the header and .collage div to be centered on the page
    - ensure that no more than 4 photos appear in a row 
